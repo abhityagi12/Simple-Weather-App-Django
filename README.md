@@ -2,5 +2,5 @@
 
 
 <div align="center">
-    <img src="/home/abhinav/Pictures/Screenshot%20from%202020-09-21%2016-41-17.png" width="400px"</img> 
+    ![image](https://user-images.githubusercontent.com/49034102/93760785-4aae8a00-fc2a-11ea-8b4b-2cb907dd2c4b.png) 
 </div>
